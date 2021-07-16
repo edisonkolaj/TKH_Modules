@@ -1,0 +1,7 @@
+1.) Github is a repository, it alows people to share and view code. Git is a system that alows
+the user to make changes and control systems, and branches which you can merge.
+2.) The terminal is a easy to tool to use because it is very accesable and it accepts easy and 
+uncomplicated comands. You can merg and create files, and can easily edit mistake that you have made.
+3.) The version control system is very affective becaue it allows for collaborative work, very easy
+to make revisions, It also gives the users the history of the code which allows for easy debugging
+and view of code.
